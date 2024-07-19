@@ -1,3 +1,4 @@
+// 문자열 템플릿
 main() {
   int no = 10;
   String name = 'kkang';

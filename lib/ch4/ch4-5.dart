@@ -1,3 +1,4 @@
+// 타입 오류, int와 double 형 변환
 main() {
   int n1 = 10;
   double d1 = 10.0;

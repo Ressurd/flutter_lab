@@ -1,3 +1,5 @@
+// 초깃값 없이 const 변수 선언 오류
+
 // final int no1; // 초기값이나 이후에 값을 대입하지 않아서 오류임
 
 class MyClass {

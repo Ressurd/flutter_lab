@@ -1,3 +1,4 @@
+// int와 String 형 변환
 const String data1 = 'hello'; // 오류
 
 class User {

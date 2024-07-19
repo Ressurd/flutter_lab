@@ -1,3 +1,4 @@
+// 문자열 표현법
 main() {
   String data1 = 'hello';
   String data2 = 'world';
