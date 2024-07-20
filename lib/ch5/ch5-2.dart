@@ -13,4 +13,8 @@ main() {
   some1(10);
   some1(null);
   // some1('hello'); // 오류임
+
+  // some2(); // 매개변수 전달을 하지 않아서 오류임.
+  some2(10);
+  some2('hello');
 }
